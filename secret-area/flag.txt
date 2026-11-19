@@ -1,1 +1,1 @@
-FLAG{directories_are_not_always_hidden}
+FLAG{dir3ctorie5_are_n0t_always_h1dd3n}
