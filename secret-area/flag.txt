@@ -1,0 +1,1 @@
+FLAG{directories_are_not_always_hidden}
